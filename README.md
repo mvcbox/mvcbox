@@ -39,6 +39,7 @@
 ## 🤝 Contact
 
 - Website: https://custos.dev/
+- E-mail: admin@custos.dev
 - GitHub: https://github.com/mvcbox  
 - Fastest way: open an **issue** in the relevant repository 🙂
 
