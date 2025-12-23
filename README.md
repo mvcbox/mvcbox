@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=180&section=header&text=mvcbox&fontSize=60&fontAlignY=35&desc=C%2B%2B%20%7C%20C%20%7C%20Node.js%20%7C%20TypeScript%20%7C%20JavaScript%20%7C%20etc...&descAlignY=60"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563eb&height=180&section=header&text=Software%20Engineer&fontSize=60&fontAlignY=35&desc=C%2B%2B%20%7C%20C%20%7C%20Node.js%20%7C%20TypeScript%20%7C%20JavaScript%20%7C%20etc...&descAlignY=60"
     alt="header"
   />
 </p>
